@@ -85,6 +85,6 @@ Hi tuan-tl! You've successfully authenticated, but GitHub does not provide shell
 ```
 
 ## References
-* _Generating a new SSH key and adding it to the ssh-agent_, GitHub Help, viewed 17 Feb 2020, <https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>.
-* _Adding a new SSH key to your GitHub account_, GitHub Help, viewed 17 Feb 2020, <https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account>.
-* _Testing your SSH connection_, GitHub Help, viewed 17 Feb 2020, <https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection>.
+* _Generating a new SSH key and adding it to the ssh-agent_, GitHub Help, viewed 17 Feb 2020, ><https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>>.
+* _Adding a new SSH key to your GitHub account_, GitHub Help, viewed 17 Feb 2020, <<https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account>>.
+* _Testing your SSH connection_, GitHub Help, viewed 17 Feb 2020, <<https://help.github.com/en/github/authenticating-to-github/testing-your-ssh-connection>>.
