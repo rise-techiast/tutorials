@@ -5,10 +5,10 @@ Note: if you want to automate the below procedure, you can use this python scrip
 
 ## Summary
 We are going to follow the below procedure to create a private EOS blockchain:
-1. [Setup a Wallet](#1.-setup-a-wallet): using `keosd`, a key management command line tool for storing private keys and signing transactions. For development purposes, we will store private keys of all required accounts in the same wallet.
-2. [Build the Genesis Node](#2.-build-the-genesis-node): the initial block producer node that will be used to deploy, initiate and configure EOS system smart contracts for our blockchain. 
-3. [Transition from single Genesis Producer to Multiple Producers](#3.-transition-from-single-genesis-producer-to-multiple-producers): delegate the block production responsibility from our genesis node to multiple nodes within the same blockchain network. 
-4. [Resign eosio account and system accounts](#4.-resign-eosio-account-and-system-accounts): set the keys of system smart contract accounts to null so that our blockchain can function in a decentralized manner based on the consensus rules.
+1. [Setup a Wallet](#1-setup-a-wallet): using `keosd`, a key management command line tool for storing private keys and signing transactions. For development purposes, we will store private keys of all required accounts in the same wallet.
+2. [Build the Genesis Node](#2-build-the-genesis-node): the initial block producer node that will be used to deploy, initiate and configure EOS system smart contracts for our blockchain. 
+3. [Transition from single Genesis Producer to Multiple Producers](#3-transition-from-single-genesis-producer-to-multiple-producers): delegate the block production responsibility from our genesis node to multiple nodes within the same blockchain network. 
+4. [Resign eosio account and system accounts](#4-resign-eosio-account-and-system-accounts): set the keys of system smart contract accounts to null so that our blockchain can function in a decentralized manner based on the consensus rules.
 
 ## Prerequisites
 For this guideline, please make sure you have installed the below dependencies with the corresponding version:
