@@ -43,3 +43,5 @@ AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 Default region name [None]: us-west-2
 Default output format [None]: json
 ```
+## References
+* _Install the AWS CLI version 1_, AWS Command Line Interface User Guide, viewed 17 Feb 2020, <<https://docs.amazonaws.cn/en_us/cli/latest/userguide/install-macos.html>>.
