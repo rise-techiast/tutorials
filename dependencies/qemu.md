@@ -20,9 +20,9 @@ qemu-system-x86_64 --version
 ```
 
 ## Build a Virtual Machine
-Below is a sample shell script to build Ubuntu 18.04 VM on a Mac OS X.
+Below is a sample shell script to build Ubuntu 18.04 VM on Mac OS X.
 
-Copy its content and save into `run.sh` file in your directory.
+Copy its content and save into `run.sh` file in your desire directory.
 ```sh
 #!/usr/bin/env bash
 

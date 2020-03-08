@@ -1,7 +1,7 @@
 # Build a Private EOS Blockchain
 This is a step-by-step guideline to setup a private EOS blockchain.
 
-Note: if you want to automate the below procedure, you can use this python script alternatively.
+Note: if you want to automate the below procedure, please fulfill the below prerequisites section and use this python script alternatively.
 
 ## Summary
 We are going to follow the below procedure to create a private EOS blockchain:

@@ -11,6 +11,14 @@ Clone a repository using SSH:
 ```sh
 git clone git@github.com:$YOUR_ACCOUNT/$PATH_TO_REPOSITORY
 ```
+Checkout a release:
+```sh
+git checkout release/$VERSION
+```
+Checkout a tag:
+```sh
+git checkout tags/$TAG
+```
 Stage the file for commit from your local repository:
 ```sh
 ## To add the current directory:
@@ -28,7 +36,7 @@ Push commits made on your local branch to a remote repository:
 git push $REMOTE $BRANCH
 ```
 
-## Reference
+## References
 * _Changing a remote's URL_, GitHub Help, viewed 17 Feb 2020, <<https://help.github.com/en/github/using-git/changing-a-remotes-url#switching-remote-urls-from-https-to-ssh>>.
 * _Cloning a repository from GitHub_, GitHub Help, viewed 17 Feb 2020, <<https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository>>.
 * _Adding a file to a repository using the command line_, GitHub Help, viewed 17 Feb 2020, <<https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line>>.

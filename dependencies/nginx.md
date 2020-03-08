@@ -1,5 +1,4 @@
 # Nginx Setup Guideline
-This is a step-by-step guide to install Nginx.
 
 ## Install Nginx
 ```sh

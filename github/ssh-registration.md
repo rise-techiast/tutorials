@@ -1,4 +1,4 @@
-# Register a new SSH key to GitHub account
+# Register a new SSH key to GitHub Account
 This is a step-by-step guideline to register a new SSH key to your GitHub account.
 
 ## Generate a new SSH key
