@@ -1,5 +1,4 @@
 # HAProxy Setup Guideline
-This is a step-by-step guide to install HAProxy.
 
 ## Install HAProxy
 Install the HAProxy packages:

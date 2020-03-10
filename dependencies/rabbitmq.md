@@ -1,5 +1,4 @@
 # RabbitMQ Setup Guideline
-This is a step-by-step guide to setup a RabbitMQ Server.
 
 ## Install Erlang
 ```sh

@@ -1,5 +1,4 @@
 # PostgreSQL Setup Guideline
-This is a step-by-step guide to install PostgreSQL.
 
 ## Install PostgreSQL
 

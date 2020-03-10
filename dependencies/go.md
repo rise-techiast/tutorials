@@ -1,5 +1,4 @@
 # Go Setup Guideline
-This is a step-by-step guide to install Go programming language.
 
 ## Install Go
 Download the Go tarball:

@@ -1,5 +1,4 @@
 # LLVM Compiler Infrastructure Setup Guideline
-This is a step-by-step guide to install LLVM packages.
 
 ## Add LLVM Key
 

@@ -1,5 +1,4 @@
 # QEMU Setup Guideline
-This is a step-by-step guide to setup QEMU, an open source machine emulator and virtualizer.
 
 ## Install QEMU
 ### Mac OS X Brew Install

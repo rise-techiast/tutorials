@@ -1,5 +1,4 @@
 # Elasticsearch Stack Setup Guideline
-This is a step-by-step guide to install Elasticsearch Stack (ELK).
 
 ## Prerequisites
 * Install [Docker](https://techiast.com/docker/).

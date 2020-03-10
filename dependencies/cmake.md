@@ -1,5 +1,4 @@
 # CMake Setup Guideline
-This is a step-by-step guide to install CMake.
 
 ## Build and Install CMake
 

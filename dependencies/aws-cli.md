@@ -1,5 +1,4 @@
 # AWS CLI Setup Guideline
-This is a step-by-step guide to install AWS Command Line Interface.
 
 ## Install pip
 Follow this [guideline](./python.md) to install pip.

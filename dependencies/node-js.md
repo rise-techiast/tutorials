@@ -1,5 +1,4 @@
 # Node.js Setup Guideline
-This is a step-by-step guide to install Node.js.
 
 ## Install Node.js
 ### Node.js v12.x

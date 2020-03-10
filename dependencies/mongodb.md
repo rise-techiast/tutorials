@@ -1,5 +1,4 @@
 # MongoDB Setup Guideline
-This is a step-by-step guide to install MongoDB.
 
 ## Install MongoDB
 Import the public key used by the package management system:

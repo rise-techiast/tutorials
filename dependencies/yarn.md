@@ -1,5 +1,4 @@
 # Yarn Setup Guideline
-This is a step-by-step guide to install Yarn.
 
 ## Install Yarn
 Import the repository’s GPG key: 

@@ -1,5 +1,4 @@
 # Boost C++ Libraries Setup Guideline
-This is a step-by-step guide to install Boost C++ Libraries.
 
 ## Build and Install Boost
 

@@ -1,5 +1,4 @@
 # Python Setup Guideline
-This is a step-by-step guide to install Python 3.7.
 
 ## Install Python 3.7
 ```sh
